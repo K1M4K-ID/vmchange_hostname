@@ -30,7 +30,6 @@ chfn digunakan untuk mengubah informasi perubahan pengguna, seperti nama lengkap
 # restart lalu login
 
 username : kimak
-
 password : kali
 
 
@@ -39,12 +38,10 @@ password : kali
 $ passwd kimak
 
 masukan password baru :
-
 ketikan ulang password :
 
 # restart lalu login
 
 username : kimak
-
 password : password baru
 ```
