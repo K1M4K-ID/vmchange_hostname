@@ -36,6 +36,7 @@ password : kali
 # merubah password 
 
 $ passwd kimak
+
 masukan password baru :
 
 ketikan ulang password :
