@@ -1,5 +1,6 @@
 # Merubah username & passwd
 
+```
 # created by K1M4K-ID
 $ usermod -l kimak -d /home/kimak -m kali
 
@@ -46,3 +47,4 @@ ketikan ulang password :
 username : kimak
 
 password : password baru
+```
